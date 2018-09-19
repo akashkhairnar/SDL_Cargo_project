@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "511186140183",
+    "firebase_url": "https://sdlcargoproject.firebaseio.com",
+    "project_id": "sdlcargoproject",
+    "storage_bucket": "sdlcargoproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511186140183:android:23eb8fea70b8290b",
+        "android_client_info": {
+          "package_name": "com.example.akash004.sdl_cargo_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511186140183-kog5dg2sp87mgmk1ndut8hqh5rtvtd1p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.akash004.sdl_cargo_project",
+            "certificate_hash": "a0859ab71b3782a3cdee33bc33012d59fde53240"
+          }
+        },
+        {
+          "client_id": "511186140183-bdg03svcuisueiu68fqlupjqm58i4hn8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2SHpKf4az88KW5OW6RGG6exTLf8TTu-o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511186140183-bdg03svcuisueiu68fqlupjqm58i4hn8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
